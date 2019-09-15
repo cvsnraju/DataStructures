@@ -2,7 +2,7 @@
 
 ### Introduction to Data Structures: Information and Meaning
 
-A Data-Structure is data organization, management and storage format that enables efficent efficient access of data and modification.
+A Data-Structure is *data organization*, *management* and *storage* format that enables  *efficient* access of data and *modification.
 
 Data structure implements the physical form of the data type, where as data type (ADT) is logical form how to implement the data types.
 
