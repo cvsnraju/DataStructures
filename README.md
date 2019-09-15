@@ -2,18 +2,18 @@
 
 ### Introduction to Data Structures: Information and Meaning
 
-A Data-Structure is *data organization*, *management* and *storage* format that enables  *efficient* access of data and *modification.
+A Data-Structure is `data organization`, `management` and `storage` format that enables  'efficient' access of `data` and `modification`.
 
-Data structure implements the physical form of the data type, where as data type (ADT) is logical form how to implement the data types.
+Data structure implements the `physical` form of the `data` type, where as data type (ADT) is `logical` form `how` to implement the data types.
 
-ADT is implementation independent. For example, it only describes what a data type List consists (data) and what are the operations it can perform, but it has no information about how the List is actually implemented.
+ADT is `implementation independent`. For example, it only describes what a data type List consists (data) and what are the operations it can perform, but it has no information about how the List is `actually` implemented.
 
-Whereas data structure is implementation dependent, as in the same example, it is about how the List implemented ie., using array or linked list. Ultimately, data structure is how we implement the data in an abstract data type.
+Whereas data structure is `implementation dependent`, as in the same example, it is about how the List implemented ie., using array or linked list. Ultimately, data structure is how we implement the data in an abstract data type.
 
 Next we will learn following Data structures and implement their operations in python.
 
 ### Working on Data Structures
-| Data Structures      | Operations   | 
+| `Data Structures`      | `Operations`   | 
 | :-------------: |:-------------:|
 | Stack    | As an Abstract Data Type - Implementing the Stack and Infix, Postfix and Prefix: Definitions, Evaluationand Conversions.|
 | Queues and Lists   | The Queue as Abstract Data Type – Sequential Representation _Types of Queues – Operations.| 
