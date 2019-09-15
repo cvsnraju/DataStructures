@@ -10,7 +10,7 @@ ADT is implementation independent. For example, it only describes what a data ty
 
 Whereas data structure is implementation dependent, as in the same example, it is about how the List implemented ie., using array or linked list. Ultimately, data structure is how we implement the data in an abstract data type.
 
-Next we will learn following the Data structures and implement their operations in python.
+Next we will learn following Data structures and implement their operations in python.
 
 | Data Structures      | Operations   | 
 | :-------------: |:-------------:|
@@ -24,7 +24,6 @@ Next we will learn following the Data structures and implement their operations 
 | Searching | Basic Searching Techniques: Dictionary as an Abstract Data Type – Algorithmic Notation – Sequential Searching and its Efficiency – Binary Search – Interpolation Search. |
 | Tree Searching | Insertion into a Binary Search Tree – Deleting from a Binary Search Tree – Efficiency of Binary Search Tree operation|
 | Graphs and Their Application | Application of Graphs – Representation of Graphs in C – Transitive closure – Warshall’s Algorithm – Shortest Path Algorithm.|
-
 | Linked Representation of Graphs | Dijikstra’s Algorithm – Organizing the set of Graph Nodes – Application to Scheduling and its implication.|
 | Graph Traversal and Spanning Forests| Undirected Graph and their Traversals, Applications and Efficiency – Minimal Spanning Trees –Prim’s and Kruskal’s Algorithms.|
 
