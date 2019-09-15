@@ -1,4 +1,4 @@
-# DataStructures
+# Data Structures
 
 ## Introduction to Data Structures: Information and Meaning
 
@@ -18,7 +18,7 @@ Next we will learn following the Data structures and implement their operations 
 | Queues and Lists   | The Queue as Abstract Data Type – Sequential Representation _Types of Queues – Operations     | 
 | Linked List | Operations – Implementation of Stacks, Queues and priority Queues      |
 
-| Circular Lists |  Insertion, Deletion and Concatenation Operations _ Stacks and Queues as Circular Lists _ Doubly Linked List   |
+| Circular Lists |  Insertion, Deletion and Concatenation Operations ,Stacks and Queues as Circular Lists, Doubly Linked List   |
 
 | Trees | Binary Trees Operations and Applications   |
 
