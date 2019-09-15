@@ -1,6 +1,6 @@
 # Data Structures
 
-## Introduction to Data Structures: Information and Meaning
+### Introduction to Data Structures: Information and Meaning
 
 A Data-Structure is data organization, management and storage format that enables efficent efficient access of data and modification.
 
@@ -12,6 +12,7 @@ Whereas data structure is implementation dependent, as in the same example, it i
 
 Next we will learn following Data structures and implement their operations in python.
 
+### Working on Data Structures
 | Data Structures      | Operations   | 
 | :-------------: |:-------------:|
 | Stack    | As an Abstract Data Type - Implementing the Stack and Infix, Postfix and Prefix: Definitions, Evaluationand Conversions.|
@@ -25,7 +26,7 @@ Next we will learn following Data structures and implement their operations in p
 | Tree Searching | Insertion into a Binary Search Tree – Deleting from a Binary Search Tree – Efficiency of Binary Search Tree operation|
 | Graphs and Their Application | Application of Graphs – Representation of Graphs in C – Transitive closure – Warshall’s Algorithm – Shortest Path Algorithm.|
 | Linked Representation of Graphs | Dijikstra’s Algorithm – Organizing the set of Graph Nodes – Application to Scheduling and its implication.|
-| Graph Traversal and Spanning Forests| Undirected Graph and their Traversals, Applications and Efficiency – Minimal Spanning Trees –Prim’s and Kruskal’s Algorithms.|
+| Graph Traversal and Spanning Forests| Undirected Graph and their Traversals, Applications and Efficiency – Minimal Spanning Trees – Prim’s and Kruskal’s Algorithms.|
 
 
 
