@@ -15,7 +15,7 @@ Next we will learn following Data structures and implement their operations in p
 ### Working on Data Structures
 | `Data Structures`      | `Operations`   | 
 | :-------------: |:-------------:|
-| Stack    | As an Abstract Data Type - Implementing the Stack and Infix, Postfix and Prefix: Definitions, Evaluationand Conversions.|
+| Stack    | As an Abstract Data Type - [Implementing the Stack] (/Stack.py) and Infix, Postfix and Prefix: Definitions, Evaluationand Conversions.|
 | Queues and Lists   | The Queue as Abstract Data Type – Sequential Representation _Types of Queues – Operations.| 
 | Linked List | Operations – Implementation of Stacks, Queues and priority Queues.|
 | Circular Lists |  Insertion, Deletion and Concatenation Operations ,Stacks and Queues as Circular Lists, Doubly Linked List.|
